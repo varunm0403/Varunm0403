@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 'you can email me on'
+- 📫 To reach me 'you can email me on'
 - [mishraji0689@gmail.com]
 
 <!---
